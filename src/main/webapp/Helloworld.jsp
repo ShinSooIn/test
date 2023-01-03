@@ -4,7 +4,7 @@
 <%@page import="java.text.SimpleDateFormat"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"
-    info="이 페이지는 JSP 및 Servlet 테스트 문서 입니다." %>
+    info="이 페이지는 JSP 및 Servlet 테스트 문서 입니다~~." %>
     
 
     
